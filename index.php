@@ -49,10 +49,9 @@
 								<a href="" title="" class="contbodyCardGallery">
 									<div class="cardGalleryHomeBody">
 										<div class="cardGalleryTxt">
-											<h2>title</h2>
+											<h2>Beauté women</h2>
 											<p>
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-												tempor incididunt.
+												Team Fotografía de moda - Universidad Javeriana
 											</p>
 										</div>
 									</div>
@@ -67,10 +66,9 @@
 								<a href="" title="" class="contbodyCardGallery">
 									<div class="cardGalleryHomeBody">
 										<div class="cardGalleryTxt">
-											<h2>title</h2>
+											<h2>Fotografía de producto</h2>
 											<p>
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-												tempor incididunt.
+												Moda, calidad e Innovación
 											</p>
 										</div>
 									</div>
@@ -85,10 +83,9 @@
 								<a href="" title="" class="contbodyCardGallery">
 									<div class="cardGalleryHomeBody">
 										<div class="cardGalleryTxt">
-											<h2>title</h2>
+											<h2>LOGO</h2>
 											<p>
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-												tempor incididunt.
+												Diseño y Elaboración de logotipos.
 											</p>
 										</div>
 									</div>
@@ -103,10 +100,9 @@
 								<a href="" title="" class="contbodyCardGallery">
 									<div class="cardGalleryHomeBody">
 										<div class="cardGalleryTxt">
-											<h2>title</h2>
+											<h2>Identidad Corporativa y Merchandising</h2>
 											<p>
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-												tempor incididunt.
+												Diseño y Elaboración de identidad corporativa.
 											</p>
 										</div>
 									</div>
@@ -121,10 +117,9 @@
 								<a href="" title="" class="contbodyCardGallery">
 									<div class="cardGalleryHomeBody">
 										<div class="cardGalleryTxt">
-											<h2>title</h2>
+											<h2>LOGO</h2>
 											<p>
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-												tempor incididunt.
+												Diseño y Elaboración de logotipos.
 											</p>
 										</div>
 									</div>
@@ -139,10 +134,9 @@
 								<a href="" title="" class="contbodyCardGallery">
 									<div class="cardGalleryHomeBody">
 										<div class="cardGalleryTxt">
-											<h2>title</h2>
+											<h2>Piezas Publicitarias</h2>
 											<p>
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-												tempor incididunt.
+												Diseño y Elaboración de piezas publicitarias en todo tipo de empresa y/o proyecto.
 											</p>
 										</div>
 									</div>
@@ -157,10 +151,9 @@
 								<a href="" title="" class="contbodyCardGallery">
 									<div class="cardGalleryHomeBody">
 										<div class="cardGalleryTxt">
-											<h2>title</h2>
+											<h2>Editorial de Moda</h2>
 											<p>
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-												tempor incididunt.
+												Diseño y Elaboración de editoriales, revistas, catálogos, folletos...
 											</p>
 										</div>
 									</div>
@@ -175,10 +168,9 @@
 								<a href="" title="" class="contbodyCardGallery">
 									<div class="cardGalleryHomeBody">
 										<div class="cardGalleryTxt">
-											<h2>title</h2>
+											<h2>Piezas Publicitarias</h2>
 											<p>
-												Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-												tempor incididunt.
+												Diseño y Elaboración de piezas publicitarias en todo tipo de empresa y/o proyecto.
 											</p>
 										</div>
 									</div>

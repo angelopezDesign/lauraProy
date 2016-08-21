@@ -10,8 +10,8 @@
 				<div class="row">
 					<article class="titleWindow small-12 medium-8">
 
-						<h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-						<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
+						<h1>El saber ser único es el espacio de libertad del ser.</h1>
+						<h3>Michael Focault</h3>
 					</article>
 				</div>
 			</section>
@@ -25,12 +25,10 @@
 						</div>
 						<div class="bodyCardIdCorp small-12 medium-8 columns">
 							<div class="txtCardIdCorp">
-								<h4>Logo Espiritu Retro</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+								<h4>Logo Colección Espíritu Retro</h4>
+								<p>
+									Logotipo enfocado a la tendencia retro, diseño elaborado para empresa de comercialización de prendas de vestir de moda.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -42,12 +40,10 @@
 						</div>
 						<div class="bodyCardIdCorp small-12 medium-8 columns">
 							<div class="txtCardIdCorp">
-								<h4>Logo Espiritu Retro </h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+								<h4>Logo Colección Espíritu Retro / 2</h4>
+								<p>
+									Logotipo enfocado a la tendencia retro, diseño elaborado para empresa de comercialización de prendas de vestir de moda.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -59,12 +55,10 @@
 						</div>
 						<div class="bodyCardIdCorp small-12 medium-8 columns">
 							<div class="txtCardIdCorp">
-								<h4>Logo Fantasia Hipster 1</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+								<h4>Logo Colección Hipster</h4>
+								<p>
+								Logotipo enfocado a la tendencia Hipster, diseño elaborado para empresa de comercialización de prendas de vestir de moda.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -76,12 +70,10 @@
 						</div>
 						<div class="bodyCardIdCorp small-12 medium-8 columns">
 							<div class="txtCardIdCorp">
-								<h4>Logo Fantasia Hipster 2</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+								<h4>Logo Colección Fantasia Primaveral</h4>
+								<p>
+									Logotipo enfocado a la tendencia Hipster, diseño elaborado para empresa de comercialización de prendas de vestir de moda.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -93,12 +85,10 @@
 						</div>
 						<div class="bodyCardIdCorp small-12 medium-8 columns">
 							<div class="txtCardIdCorp">
-								<h4>logos NC Techonology 1</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+								<h4>Logo NC|TECHNOLOGY</h4>
+								<p>
+									Logotipo enfocado a la tecnología, diseño elaborado para empresa de comercialización de productos tecnologicos y soluciones informaticas.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -110,12 +100,9 @@
 						</div>
 						<div class="bodyCardIdCorp small-12 medium-8 columns">
 							<div class="txtCardIdCorp">
-								<h4>logos NC Techonology 2</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+								<h4>Logo NC|TECHNOLOGY</h4>
+								<p>
+								Logotipo enfocado a la tecnología, diseño elaborado para empresa de comercialización de productos tecnologicos y soluciones informaticas.</p>
 							</div>
 						</div>
 					</article>
@@ -127,12 +114,10 @@
 						</div>
 						<div class="bodyCardIdCorp small-12 medium-8 columns">
 							<div class="txtCardIdCorp">
-								<h4>Manual Corporativo Laura Guerra</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+								<h4>Manual Corporativo y Merchandising</h4>
+								<p>
+									CONTENIDO:Logotipo enfocado a la tecnología, diseño elaborado para empresa de comercialización.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -144,12 +129,10 @@
 						</div>
 						<div class="bodyCardIdCorp small-12 medium-8 columns">
 							<div class="txtCardIdCorp">
-								<h4>Propuesta Logo Nautica 1</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+								<h4>Logo Colección New Nautica</h4>
+								<p>
+									Logotipo enfocado a la tecnología, diseño elaborado para empresa de comercialización de productos tecnologicos y soluciones informaticas.
+								</p>
 							</div>
 						</div>
 					</article>
@@ -161,12 +144,10 @@
 						</div>
 						<div class="bodyCardIdCorp small-12 medium-8 columns">
 							<div class="txtCardIdCorp">
-								<h4>Propuesta Logo Nautica 2</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-								cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat.</p>
+								<h4>Logo NC|TECHNOLOGY</h4>
+								<p>
+									Logotipo enfocado a la tecnología, diseño elaborado para empresa de comercialización de productos tecnologicos y soluciones informaticas.
+								</p>
 							</div>
 						</div>
 					</article>

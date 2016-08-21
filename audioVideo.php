@@ -9,9 +9,8 @@
 			<section id="bannerWindow">
 				<div class="row">
 					<article class="titleWindow small-12 medium-8">
-
-						<h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h1>
-						<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
+						<h1>VIVE como si fueras a morir mañana, APRENDE como si fueras a vivir siempre</h1>
+						<h3>"Mahatma Gandhi"</h3>
 					</article>
 				</div>
 			</section>
@@ -39,7 +38,7 @@
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque distinctio corporis ullam voluptatibus officiis adipisci deleniti dignissimos modi dolor asperiores rem fuo</p>
 								</div>
 							</div>
-							<div class="footerCardAudioVideo">
+							<!-- <div class="footerCardAudioVideo">
 								<p class="redes">
 									Share /
 									<span>
@@ -48,7 +47,7 @@
 										<a href=""><i class="fa fa-instagram"></i></a>
 									</span>
 								</p>
-							</div>
+							</div> -->
 						</article>
 					</div>
 					<div class="small-12 medium-4 columns">
@@ -72,7 +71,7 @@
 								<div class="txtCardAudioVideo">
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, numquam, vero. Necessitatibus veritatis distinctio, iusto tenetur voluptatum sit magni quisquam itaque perferendo</p>
 								</div>
-								<div class="footerCardAudioVideo">
+								<!-- <div class="footerCardAudioVideo">
 									<p class="redes">
 										Share /
 										<span>
@@ -81,7 +80,7 @@
 											<a href=""><i class="fa fa-instagram"></i></a>
 										</span>
 									</p>
-								</div>
+								</div> -->
 							</div>
 						</article>
 					</div>
@@ -106,7 +105,7 @@
 								<div class="txtCardAudioVideo">
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat asperiores sunt nisi quia odio laborum saepe necessitatibus dolore rerum eaque. Officiis ipsum excepturi, numquodiv>
 							</div>
-							<div class="footerCardAudioVideo">
+							<!-- <div class="footerCardAudioVideo">
 								<p class="redes">
 									Share /
 									<span>
@@ -115,7 +114,7 @@
 										<a href=""><i class="fa fa-instagram"></i></a>
 									</span>
 								</p>
-							</div>
+							</div> -->
 						</article>
 					</div>
 				</div>
