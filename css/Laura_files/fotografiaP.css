@@ -1,0 +1,21 @@
+/* line 2, ../scss/fotografiaP.scss */
+#bodyFotografiaP:after,
+#bodyFotografiaP:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* line 7, ../scss/fotografiaP.scss */
+#bodyFotografiaP {
+  padding-bottom: 50px;
+  background: #f2f2f2;
+}
+/* line 10, ../scss/fotografiaP.scss */
+#bodyFotografiaP .contSlideFoto {
+  height: 400px;
+}
+/* line 12, ../scss/fotografiaP.scss */
+#bodyFotografiaP .contSlideFoto .contCardSlideFoto {
+  margin: 0 !important;
+}

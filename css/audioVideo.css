@@ -1,0 +1,81 @@
+/* line 2, ../scss/audioVideo.scss */
+#bodyAudioVideo:after,
+#bodyAudioVideo:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* line 7, ../scss/audioVideo.scss */
+#bodyAudioVideo {
+  padding-bottom: 50px;
+  background: #f2f2f2;
+}
+/* line 12, ../scss/audioVideo.scss */
+#bodyAudioVideo .contCardAudioVideo:after, #bodyAudioVideo .contCardAudioVideo:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* line 17, ../scss/audioVideo.scss */
+#bodyAudioVideo .contCardAudioVideo .headerCardAudioVideo {
+  box-sizing: border-box;
+}
+/* line 19, ../scss/audioVideo.scss */
+#bodyAudioVideo .contCardAudioVideo .headerCardAudioVideo .titleCardAudioVideo {
+  padding: 5px 0px;
+}
+/* line 22, ../scss/audioVideo.scss */
+#bodyAudioVideo .contCardAudioVideo .headerCardAudioVideo .titleCardAudioVideo h2,
+#bodyAudioVideo .contCardAudioVideo .headerCardAudioVideo .titleCardAudioVideo h5 {
+  margin: 0px;
+  line-height: 1;
+}
+/* line 26, ../scss/audioVideo.scss */
+#bodyAudioVideo .contCardAudioVideo .headerCardAudioVideo .titleCardAudioVideo h2 {
+  font-weight: 700;
+}
+/* line 29, ../scss/audioVideo.scss */
+#bodyAudioVideo .contCardAudioVideo .headerCardAudioVideo .titleCardAudioVideo h5 {
+  font-family: 'Roboto';
+  font-weight: 100;
+  color: #5e5e5e;
+}
+/* line 38, ../scss/audioVideo.scss */
+#bodyAudioVideo .contCardAudioVideo .bodyCardAudioVideo .txtCardAudioVideo p {
+  text-align: justify;
+}
+/* line 45, ../scss/audioVideo.scss */
+#bodyAudioVideo .contCardAudioVideo .footerCardAudioVideo .redes a {
+  color: #5e5e5e;
+}
+
+/* line 52, ../scss/audioVideo.scss */
+#audioAudioShow {
+  padding-top: 20px;
+  padding-buttom: 20px;
+  background: #272727;
+}
+/* line 54, ../scss/audioVideo.scss */
+#audioAudioShow:after, #audioAudioShow:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* line 63, ../scss/audioVideo.scss */
+#audioAudioShow .contCardAudioShow .headerCardAudioShow {
+  position: relative;
+}
+/* line 66, ../scss/audioVideo.scss */
+#audioAudioShow .contCardAudioShow .headerCardAudioShow .thumAudioShow img {
+  width: 100%;
+  max-width: none;
+}
+/* line 71, ../scss/audioVideo.scss */
+#audioAudioShow .contCardAudioShow .headerCardAudioShow .playCardAudioShow {
+  width: 100%;
+}
+/* line 76, ../scss/audioVideo.scss */
+#audioAudioShow .contCardAudioShow .bodyCardAudioShow .txtCardAudio {
+  color: #eeeeee;
+}

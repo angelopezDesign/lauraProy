@@ -1,0 +1,559 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,700,300,300italic);
+/* line 3, ../scss/app.scss */
+body {
+  font-family: 'Roboto' , sans-serift;
+}
+
+/* line 7, ../scss/app.scss */
+header#headerG .headCont {
+  height: 150px;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -moz-align-items: center;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+/* line 18, ../scss/app.scss */
+header#headerG .headCont .redesHeader {
+  text-align: center;
+}
+/* line 20, ../scss/app.scss */
+header#headerG .headCont .redesHeader p {
+  margin: 0;
+}
+/* line 22, ../scss/app.scss */
+header#headerG .headCont .redesHeader p a {
+  color: #272727;
+  font-size: 1.7rem;
+}
+/* line 28, ../scss/app.scss */
+header#headerG .headCont .brandCont {
+  text-align: center;
+}
+/* line 30, ../scss/app.scss */
+header#headerG .headCont .brandCont img {
+  max-width: 270px;
+  width: 100%;
+}
+/* line 35, ../scss/app.scss */
+header#headerG .headCont .firstLick {
+  text-align: center;
+}
+/* line 37, ../scss/app.scss */
+header#headerG .headCont .firstLick a {
+  color: #555555;
+}
+/* line 43, ../scss/app.scss */
+header#headerG #navBar:after,
+header#headerG #navBar:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* line 48, ../scss/app.scss */
+header#headerG #navBar {
+  position: relative;
+  background-color: #000000;
+  height: 100px;
+  overflow: hidden;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 59, ../scss/app.scss */
+header#headerG #navBar .btnToggle:before,
+header#headerG #navBar .btnToggle:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* line 64, ../scss/app.scss */
+header#headerG #navBar .btnToggle {
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+/* line 68, ../scss/app.scss */
+header#headerG #navBar .btnToggle .btnMovil {
+  color: #ffffff;
+}
+/* line 70, ../scss/app.scss */
+header#headerG #navBar .btnToggle .btnMovil .iconNavMovil {
+  font-size: 2rem;
+}
+/* line 76, ../scss/app.scss */
+header#headerG #navBar .contItemsNav ul {
+  margin: 0px;
+  list-style: none;
+}
+/* line 79, ../scss/app.scss */
+header#headerG #navBar .contItemsNav ul li {
+  border-right: 1px solid #fff;
+}
+/* line 82, ../scss/app.scss */
+header#headerG #navBar .contItemsNav ul li:nth-last-child(1) {
+  border-right: none;
+}
+/* line 85, ../scss/app.scss */
+header#headerG #navBar .contItemsNav ul li a {
+  padding: 0px 3px;
+  display: block;
+  position: relative;
+  color: #ffffff;
+  text-align: center;
+  z-index: 10;
+}
+/* line 92, ../scss/app.scss */
+header#headerG #navBar .contItemsNav ul li a:before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: url(../recursos/img/testHoverBg.png) no-repeat;
+  background-size: 100%;
+  background-position: center;
+  top: 0;
+  opacity: 0.3;
+  z-index: 1;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 111, ../scss/app.scss */
+header#headerG #navBar .contItemsNav ul li a:hover:before {
+  opacity: 0.9;
+}
+/* line 120, ../scss/app.scss */
+header#headerG #navBar.openNav {
+  height: 300px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+@media screen and (min-width: 768px) {
+  /* line 130, ../scss/app.scss */
+  header#headerG #navBar .btnToggle {
+    display: none;
+  }
+  /* line 133, ../scss/app.scss */
+  header#headerG #navBar .contItemsNav {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+  }
+  /* line 143, ../scss/app.scss */
+  header#headerG #navBar .contItemsNav ul {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    justify-content: center;
+  }
+  /* line 149, ../scss/app.scss */
+  header#headerG #navBar .contItemsNav ul li {
+    padding: 0px 5px;
+    display: inline-block;
+  }
+  /* line 152, ../scss/app.scss */
+  header#headerG #navBar .contItemsNav ul li a {
+    padding-bottom: 0px 3px;
+  }
+}
+
+/* line 164, ../scss/app.scss */
+main .wrapper #bannerHome:after,
+main .wrapper #bannerHome:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* line 169, ../scss/app.scss */
+main .wrapper #bannerHome {
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 56.25%;
+  overflow: hidden;
+}
+/* line 175, ../scss/app.scss */
+main .wrapper #bannerHome .thumBannerHome {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("../recursos/img/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center, center;
+  overflow: hidden;
+}
+/* line 186, ../scss/app.scss */
+main .wrapper #bannerHome .thumBannerHome img {
+  max-width: none;
+  height: auto;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+/* line 193, ../scss/app.scss */
+main .wrapper #bannerHome .thumBannerHome video {
+  max-width: none;
+  height: auto;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+/* line 201, ../scss/app.scss */
+main .wrapper #bannerHome .coverBannerVideo {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+/* line 213, ../scss/app.scss */
+main .wrapper #galleryHome:after,
+main .wrapper #galleryHome:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* line 218, ../scss/app.scss */
+main .wrapper #galleryHome {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: #323232;
+}
+/* line 223, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+}
+/* line 229, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome .cardGalleryHome {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+/* line 234, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome .cardGalleryHome .cardGalleryHomeHeader {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+/* line 238, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome .cardGalleryHome .cardGalleryHomeHeader img {
+  position: relative;
+  text-align: center;
+  top: 0;
+  right: 0;
+  width: 100%;
+  min-width: 200px;
+  max-width: none;
+}
+/* line 249, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome .cardGalleryHome .contbodyCardGallery {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: translateX(-100%);
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 265, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome .cardGalleryHome .contbodyCardGallery .cardGalleryHomeBody {
+  position: relative;
+  width: 0%;
+  margin: 0px auto;
+  height: 90%;
+  background: rgba(0, 0, 0, 0.7);
+  overflow: hidden;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 277, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome .cardGalleryHome .contbodyCardGallery .cardGalleryHomeBody .cardGalleryTxt {
+  opacity: 0;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 2s ease;
+  -ms-transition: all 2s ease;
+  -o-transition: all 2s ease;
+  transition: all 2s ease;
+}
+/* line 284, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome .cardGalleryHome .contbodyCardGallery .cardGalleryHomeBody .cardGalleryTxt h2 {
+  text-align: center;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+/* line 290, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome .cardGalleryHome .contbodyCardGallery .cardGalleryHomeBody .cardGalleryTxt p {
+  text-align: center;
+  color: #ffffff;
+}
+/* line 301, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome:hover .cardGalleryHome .contbodyCardGallery {
+  transform: translateX(0);
+}
+/* line 303, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome:hover .cardGalleryHome .contbodyCardGallery .cardGalleryHomeBody {
+  width: 90%;
+}
+/* line 305, ../scss/app.scss */
+main .wrapper #galleryHome .galleryHome:hover .cardGalleryHome .contbodyCardGallery .cardGalleryHomeBody .cardGalleryTxt {
+  opacity: 1;
+}
+
+/* line 320, ../scss/app.scss */
+footer:after,
+footer:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* line 325, ../scss/app.scss */
+footer {
+  margin-top: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #272727;
+}
+/* line 330, ../scss/app.scss */
+footer .titleFooter {
+  text-align: center;
+  color: #ffffff;
+  font-weight: 900;
+}
+/* line 338, ../scss/app.scss */
+footer .contForm form .inputCont input, footer .contForm form .inputCont textarea {
+  color: #555555;
+  border: none;
+  background: none;
+  box-shadow: none;
+  border-bottom: 1px solid #555555;
+}
+/* line 344, ../scss/app.scss */
+footer .contForm form .inputCont input:focus, footer .contForm form .inputCont textarea:focus {
+  border-bottom: 2px solid #555555;
+}
+/* line 351, ../scss/app.scss */
+footer .contForm form .inputCont textarea {
+  min-width: 100%;
+  height: 100px;
+  min-height: 100px;
+}
+/* line 356, ../scss/app.scss */
+footer .contForm form .inputCont button {
+  padding: 5px;
+  width: 100%;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+}
+/* line 362, ../scss/app.scss */
+footer .contForm form .inputCont ::-webkit-input-placeholder {
+  color: #555555;
+}
+/* line 366, ../scss/app.scss */
+footer .contForm form .inputCont :-moz-placeholder {
+  /* Firefox 18- */
+  color: #555555;
+}
+/* line 370, ../scss/app.scss */
+footer .contForm form .inputCont ::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #555555;
+}
+/* line 374, ../scss/app.scss */
+footer .contForm form .inputCont :-ms-input-placeholder {
+  color: #555555;
+}
+/* line 380, ../scss/app.scss */
+footer .contactFooter {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/* line 384, ../scss/app.scss */
+footer .contactFooter p {
+  color: #ffffff;
+  margin-bottom: 0.7rem;
+}
+/* line 387, ../scss/app.scss */
+footer .contactFooter p a {
+  color: #ffffff;
+  font-size: 1.3rem;
+}
+/* line 393, ../scss/app.scss */
+footer .redesFooter {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/* line 397, ../scss/app.scss */
+footer .redesFooter p {
+  margin: 0px;
+}
+/* line 399, ../scss/app.scss */
+footer .redesFooter p a {
+  padding: 0px 10px;
+}
+/* line 401, ../scss/app.scss */
+footer .redesFooter p a i {
+  color: #ffffff;
+  font-size: 1.4rem;
+}
+/* line 408, ../scss/app.scss */
+footer .navFooter {
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+/* line 411, ../scss/app.scss */
+footer .navFooter ul {
+  padding: 0px;
+  list-style: none;
+  text-align: right;
+}
+/* line 416, ../scss/app.scss */
+footer .navFooter ul li a {
+  font-size: 1.1rem;
+  color: #ffffff;
+}
+
+/*otras ventanas*/
+/* line 427, ../scss/app.scss */
+#bannerWindow:after,
+#bannerWindow:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* line 432, ../scss/app.scss */
+#titleSite {
+  margin-top: 120px;
+}
+/* line 434, ../scss/app.scss */
+#titleSite h2 {
+  margin: 0px;
+  color: #4c4c4c;
+  font-weight: 700;
+}
+
+/* line 440, ../scss/app.scss */
+#bannerWindow {
+  padding-bottom: 50px;
+  position: relative;
+  background: #f2f2f2;
+}
+/* line 445, ../scss/app.scss */
+#bannerWindow .titleWindow .titleE {
+  font-family: 'Dragon_is_coming' , sans-serift;
+  font-size: 4rem;
+  line-height: 0.7;
+  text-align: center;
+  font-weight: 400;
+}
+@media screen and (min-width: 480px) {
+  /* line 445, ../scss/app.scss */
+  #bannerWindow .titleWindow .titleE {
+    text-align: left;
+    font-size: 6rem;
+  }
+}
+/* line 456, ../scss/app.scss */
+#bannerWindow .titleWindow h1, #bannerWindow .titleWindow h3 {
+  margin: 0;
+  color: #555555;
+  text-align: fleft;
+}
+/* line 461, ../scss/app.scss */
+#bannerWindow .titleWindow h1 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-align: center;
+}
+@media screen and (min-width: 480px) {
+  /* line 461, ../scss/app.scss */
+  #bannerWindow .titleWindow h1 {
+    font-size: 1.8rem;
+    text-align: left;
+  }
+}
+/* line 470, ../scss/app.scss */
+#bannerWindow .titleWindow h3 {
+  color: #4c4c4c;
+  font-family: 'Roboto' , sans-serift;
+  font-weight: 300;
+}
+/* line 475, ../scss/app.scss */
+#bannerWindow .titleWindow p {
+  text-align: justify;
+}
+
+/* line 480, ../scss/app.scss */
+.btnVerMAs {
+  text-align: center;
+  margin: 10px 0px;
+}
+/* line 484, ../scss/app.scss */
+.btnVerMAs:after, .btnVerMAs:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* line 489, ../scss/app.scss */
+.btnVerMAs a {
+  display: block;
+  max-width: 320px;
+  margin: 0px auto;
+  padding: 7px 10px;
+  background-color: transparent;
+  border: 2px solid #272727;
+  color: #272727;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 502, ../scss/app.scss */
+.btnVerMAs a:hover {
+  color: #f2f2f2;
+  background-color: #272727;
+}

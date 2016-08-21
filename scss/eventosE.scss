@@ -1,0 +1,84 @@
+#bodyEventosE:after,
+#bodyEventosE:before{
+	content: '';
+	display: block;
+	clear: both;
+}
+#bodyEventosE{
+	padding-bottom: 50px;
+	background: #f2f2f2;
+	.contCardEventosE{
+		margin-bottom: 0.9375rem;
+		position: relative;
+		outline:red;
+		overflow: hidden;
+		.headerCardEventosE{
+			position: relative;
+			height: 200px;
+			overflow: hidden;
+			.iconCardeventosE{
+				position: absolute;
+				top: 10px;
+				left: 10px;
+				z-index: 10;
+			}
+			.thumCardEventosE{
+				overflow: hidden;
+				img{
+					width: 100%;
+					max-width: none;
+					height: 200px;
+					opacity: 1;
+					transform: scale(1.2,1.2);
+					-webkit-transition: all 0.3s ease;
+					-moz-transition: all 0.3s ease;
+					-ms-transition: all 0.3s ease;
+					-o-transition: all 0.3s ease;
+					transition: all 0.3s ease;
+				}
+			}
+		}
+		.bodyCardEventosE{
+			position: absolute;
+			bottom: 0;
+			height: 100px;
+			display: flex;
+			align-items: center;
+			flex-direction: column;
+			background-color: rgba(28,28,28,0.7);
+			color: #ffffff;
+			overflow: hidden;
+			transform: translateY(100%);
+			-webkit-transition: all 0.3s ease;
+			-moz-transition: all 0.3s ease;
+			-ms-transition: all 0.3s ease;
+			-o-transition: all 0.3s ease;
+			transition: all 0.3s ease;
+		}
+		.datosCardEventosE,
+		.txtCardEventosE{
+			width: 90%;
+		}
+		.txtCardEventosE{
+			padding: 5px 0px;
+			h5,p{
+				line-height: 1;
+				margin: 0;
+			}
+		}
+		&:hover{
+			.headerCardEventosE{
+				.thumCardEventosE{
+					img{
+						opacity: 0.5;
+						transform: scale(1.1,1.1);
+					}
+				}
+			}
+			.bodyCardEventosE{
+				transform: translateY(0%);
+			}
+		}
+	}
+}
+

@@ -1,0 +1,90 @@
+#bodyAudioVideo:after,
+#bodyAudioVideo:before{
+	content: '';
+	display: block;
+	clear: both;
+}
+#bodyAudioVideo{
+	padding-bottom: 50px;
+	background: #f2f2f2;
+	.contCardAudioVideo{
+		&:after,
+		&:before{
+			content: '';
+			display: block;
+			clear: both;
+		}
+		.headerCardAudioVideo{
+			box-sizing:border-box;
+			.titleCardAudioVideo{
+				padding:5px 0px;
+				h2,
+				h5{
+					margin:0px;
+					line-height:1;
+				}
+				h2{
+					font-weight:700;
+				}
+				h5{
+					font-family:'Roboto';
+					font-weight:100;
+					color:#5e5e5e;
+				}
+			}
+		}
+		.bodyCardAudioVideo{
+			.txtCardAudioVideo{
+				p{
+					text-align:justify;
+				}
+			}
+		}
+		.footerCardAudioVideo{
+			.redes{
+				a{
+					color:#5e5e5e;
+				}
+			}
+		}
+	}
+}
+#audioAudioShow{
+	&:after,
+	&:before{
+		content:'';
+		display:block;
+		clear:both;
+	}
+	padding-top:20px;
+	padding-bottom:20px;
+	background:#272727;
+	.contCardAudioShow{
+		.headerCardAudioShow{
+			position:relative;
+			.thumAudioShow{
+				img{
+					width:100%;
+					max-width:none;
+				}
+			}
+			.playCardAudioShow{
+				width:100%;
+			}
+		}
+		.bodyCardAudioShow{
+		.txtCardAudio{
+				color:#eeeeee;
+			}
+		}
+	}
+}
+.skillsItems{
+	display:inline-block;
+	li{
+		width: 150px;
+		img{
+			width: 100%;
+		}
+	}
+}

@@ -1,0 +1,53 @@
+#bodyFotografiaP:after,
+#bodyFotografiaP:before{
+	content: '';
+	display: block;
+	clear: both;
+}
+#bodyFotografiaP{
+	padding-bottom: 50px;
+	background: #f2f2f2;
+	&:after,
+	&:before{
+		content:'';
+		display: block;
+		clear:both;
+	}
+	#previView{
+			display:none;
+			position:fixed;
+			top:0;
+			left:0;
+			width:100%;
+			height:100%;
+			background-color:rgba(0, 0, 0, 0.8);
+			z-index: 10000;
+		}
+		#previView .cardViewFull{
+			margin:auto;
+			width:100%;
+			min-width:320px;
+			border:5px solid #fff;
+			overflow:hidden;
+			@media screen and(min-width:480px){
+				width: 35%;
+			}
+		}
+		#previView .cardViewFull img{
+			width:100%;
+		}
+	.galeryFotoP{
+		background-color:#333;
+		.headerGaleryFp{
+			width: 100%;
+			.thumbGaleryFp{
+				width:100%;
+				img.imagGalery{
+					width: 100%;
+					cursor:pointer;
+				}
+			}
+		}
+	}
+}
+

@@ -1,0 +1,91 @@
+/* line 2, ../scss/eventosE.scss */
+#bodyEventosE:after,
+#bodyEventosE:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* line 7, ../scss/eventosE.scss */
+#bodyEventosE {
+  padding-bottom: 50px;
+  background: #f2f2f2;
+}
+/* line 10, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE {
+  margin-bottom: 0.9375rem;
+  position: relative;
+  outline: red;
+  overflow: hidden;
+}
+/* line 15, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE .headerCardEventosE {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+}
+/* line 19, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE .headerCardEventosE .iconCardeventosE {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
+}
+/* line 25, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE .headerCardEventosE .thumCardEventosE {
+  overflow: hidden;
+}
+/* line 27, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE .headerCardEventosE .thumCardEventosE img {
+  width: 100%;
+  max-width: none;
+  height: 200px;
+  opacity: 1;
+  transform: scale(1.2, 1.2);
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 41, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE .bodyCardEventosE {
+  position: absolute;
+  bottom: 0;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(28, 28, 28, 0.7);
+  color: #ffffff;
+  overflow: hidden;
+  transform: translateY(100%);
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 59, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE .datosCardEventosE,
+#bodyEventosE .contCardEventosE .txtCardEventosE {
+  width: 90%;
+}
+/* line 62, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE .txtCardEventosE {
+  padding: 5px 0px;
+}
+/* line 64, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE .txtCardEventosE h5, #bodyEventosE .contCardEventosE .txtCardEventosE p {
+  line-height: 1;
+  margin: 0;
+}
+/* line 72, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE:hover .headerCardEventosE .thumCardEventosE img {
+  opacity: 0.5;
+  transform: scale(1.1, 1.1);
+}
+/* line 78, ../scss/eventosE.scss */
+#bodyEventosE .contCardEventosE:hover .bodyCardEventosE {
+  transform: translateY(0%);
+}

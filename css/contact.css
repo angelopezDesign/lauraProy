@@ -1,0 +1,76 @@
+/* line 2, ../scss/contact.scss */
+#bodyContact:after,
+#bodyContact:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* line 7, ../scss/contact.scss */
+#bodyContact {
+  padding-bottom: 50px;
+  background: #f2f2f2;
+}
+/* line 12, ../scss/contact.scss */
+#bodyContact .contCardForm #formContact .contInputContact {
+  padding: 5px;
+}
+/* line 15, ../scss/contact.scss */
+#bodyContact .contCardForm #formContact .contInputContact input,
+#bodyContact .contCardForm #formContact .contInputContact textarea {
+  padding: 8px;
+  height: 3rem;
+  background: none;
+  border: none;
+  box-shadow: none;
+  border-bottom: 1px solid #272727;
+}
+/* line 22, ../scss/contact.scss */
+#bodyContact .contCardForm #formContact .contInputContact input:focus,
+#bodyContact .contCardForm #formContact .contInputContact textarea:focus {
+  border-bottom: 2px solid #333333;
+}
+/* line 27, ../scss/contact.scss */
+#bodyContact .contCardForm #formContact .contInputContact ::-webkit-input-placeholder {
+  color: #272727;
+}
+/* line 31, ../scss/contact.scss */
+#bodyContact .contCardForm #formContact .contInputContact :-moz-placeholder {
+  /* Firefox 18- */
+  color: #272727;
+}
+/* line 35, ../scss/contact.scss */
+#bodyContact .contCardForm #formContact .contInputContact ::-moz-placeholder {
+  /* Firefox 19+ */
+  color: #272727;
+}
+/* line 39, ../scss/contact.scss */
+#bodyContact .contCardForm #formContact .contInputContact :-ms-input-placeholder {
+  color: #272727;
+}
+/* line 43, ../scss/contact.scss */
+#bodyContact .contCardForm #formContact .contInputContact textarea {
+  min-height: 150px;
+  min-width: 100%;
+  max-width: 100%;
+}
+/* line 48, ../scss/contact.scss */
+#bodyContact .contCardForm #formContact .contInputContact #enviarForm {
+  padding: 10px;
+  border: 1px solid #272727;
+  display: block;
+  margin: 0px auto;
+  width: 200px;
+  font-weight: 700;
+  text-align: center;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 61, ../scss/contact.scss */
+#bodyContact .contCardForm #formContact .contInputContact #enviarForm:hover {
+  background: #272727;
+  color: #fff;
+}

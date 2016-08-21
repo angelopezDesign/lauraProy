@@ -1,0 +1,112 @@
+/* line 2, ../scss/materialP.scss */
+#bodyMaterialP:after,
+#bodyMaterialP:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* line 7, ../scss/materialP.scss */
+#bodyMaterialP {
+  padding-bottom: 50px;
+  background: #f2f2f2;
+}
+/* line 11, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP:after,
+#bodyMaterialP .contCardMaterialP:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* line 16, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP {
+  margin-bottom: 40px;
+  padding: 0px;
+  background-color: #ffffff;
+}
+/* line 20, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .headerCardMaterialP {
+  position: relative;
+  padding: 0px;
+  overflow: hidden;
+  height: 170px;
+}
+/* line 25, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .headerCardMaterialP .thumCardMaterialP {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+/* line 31, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .headerCardMaterialP .thumCardMaterialP img {
+  width: auto;
+  max-width: none;
+  height: auto;
+  transform: scale(1, 1);
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 41, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .headerCardMaterialP .thumCardMaterialP img:hover {
+  transform: scale(1.3, 1.3);
+}
+/* line 48, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .bodyCardMaterialP:after,
+#bodyMaterialP .contCardMaterialP .bodyCardMaterialP:before {
+  content: '';
+  display: block;
+  clear: both;
+}
+/* line 53, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .bodyCardMaterialP {
+  height: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: columns;
+}
+/* line 59, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .bodyCardMaterialP .iconCardMaterialP {
+  padding: 0px;
+}
+/* line 61, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .bodyCardMaterialP .iconCardMaterialP p {
+  margin: 0px;
+  text-align: center;
+}
+/* line 64, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .bodyCardMaterialP .iconCardMaterialP p i {
+  font-size: 1.2rem;
+}
+/* line 68, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .bodyCardMaterialP .iconCardMaterialP p:nth-child(2) {
+  text-transform: uppercase;
+  font-weight: 600;
+}
+/* line 73, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .bodyCardMaterialP .txtCardMaterialP {
+  text-align: justify;
+  overflow: hidden;
+  opacity: 0.8;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+/* line 82, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .bodyCardMaterialP .txtCardMaterialP p {
+  margin: 0;
+  color: #454545;
+  font-family: 'Roboto' , sans-serift;
+  line-height: 1.2;
+}
+/* line 90, ../scss/materialP.scss */
+#bodyMaterialP .contCardMaterialP .bodyCardMaterialP:hover .txtCardMaterialP {
+  opacity: 1;
+}

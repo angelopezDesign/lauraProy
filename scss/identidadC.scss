@@ -1,0 +1,68 @@
+#bodyIdCorp:after,
+#bodyIdCorp:before{
+	content: '';
+	display: block;
+	clear: both;
+}
+#bodyIdCorp{
+	padding-bottom: 50px;
+	background: #f2f2f2;
+	.contCradIdCorp{
+		padding: 0px;
+		margin-bottom: 40px;
+		background-color: #ffffff;
+		#headerCardIdCorp:after,
+		#headerCardIdCorp:before{
+			content: '';
+			display: block;
+			clear: both;
+		}
+		.headerCardIdCorp{
+			position: relative;
+			padding: 0px;
+			height: 250px;
+			overflow: hidden;
+			.thumCardIdCorp{
+				position: absolute;
+				top: 0;
+				width: 100%;
+				height: 100%;
+				overflow: hidden;
+				img{
+					width: 100%;
+					max-width: none;
+					transform: scale(1,1);
+					-webkit-transition: all 0.3s ease;
+					-moz-transition: all 0.3s ease;
+					-ms-transition: all 0.3s ease;
+					-o-transition: all 0.3s ease;
+					transition: all 0.3s ease;
+					&:hover{
+						transform: scale(1.3,1.3);
+					}
+				}
+			}
+		}
+		#bodyCardIdCorp:after,
+		#bodyCardIdCorp:before{
+			content: '';
+			display: block;
+			clear: both;
+		}
+		.bodyCardIdCorp{
+			height: 250px;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			.txtCardIdCorp{
+				width: 80%;
+				h4{
+					font-weight: 700;
+				}
+				p{
+					color:#454545;
+				}
+			}
+		}
+	}
+}
