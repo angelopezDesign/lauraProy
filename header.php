@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="ES">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,13 +10,6 @@
 	<link rel="stylesheet" type="text/css" href="css/foundation.css">
 	<link rel="stylesheet" type="text/css" href="css/app.css">
 	<link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.css">
-	<link rel="stylesheet" type="text/css" href="css/identidadC.css">
-	<link rel="stylesheet" type="text/css" href="css/materialP.css">
-	<link rel="stylesheet" type="text/css" href="css/fotografiaP.css">
-	<link rel="stylesheet" type="text/css" href="css/eventosE.css">
-	<link rel="stylesheet" type="text/css" href="css/audioVideo.css">
-	<link rel="stylesheet" type="text/css" href="css/about.css" >
-	<link rel="stylesheet" type="text/css" href="css/contact.css">
 	<link rel="stylesheet" type="text/css" href="css/swiper.min.css">
 	<link rel="stylesheet" href="recursos/fontE/fontE.css">	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
@@ -30,6 +23,18 @@
 					$('header#headerG #navBar').addClass('openNav');
 				}
 			});
+		});
+	</script>
+	<script src="js/masonry.pkgd.min.js"></script>
+	<script>
+		$('.galeryFotoP').masonry({
+		itemSelector: '.cardGaleryFp',
+		columnWidth: 0
+		});
+
+		$('.galeryContainer').masonry({
+		itemSelector: '.galleryHome',
+		columnWidth: 0
 		});
 	</script>
 	<style>

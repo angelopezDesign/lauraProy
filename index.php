@@ -3,13 +3,6 @@
 		<div class="wrapper">
 			<section id="bannerHome" >
 				<div class="thumBannerHome">
-					<!-- <picture>
-						<source srcset="recursos/img/background.png" media="(min-width: 1200px)">
-						<source srcset="recursos/img/background.png" media="(min-width: 768px)">	
-						<source srcset="recursos/img/backgroundsmall.png" media="(min-width: 320px)">
-						<source src="recursos/img/background.png">
-						<img src="recursos/img/background.png" alt="background">
-					</picture> -->
 					<video preload="true" autoplay="autoplay" loop="loop" muted="muted" poster="recursos/img/poster.jpg" >
 					  <source src="recursos/video/RokBagoros.webm" type="video/webm">
 					  <source src="recursos/video/RokBagoros.mp4" type="video/mp4">
@@ -163,14 +156,14 @@
 						<article class="small-12 medium-3 columns galleryHome">
 							<div class="cardGalleryHome">
 								<div class="cardGalleryHomeHeader">
-									<img src="recursos/img/home/lauraGuerra.jpg" alt="cardImagen"/>
+									<img src="recursos/img/home/LOGO_ESPIRITU_RETRO-02.jpg" alt="cardImagen"/>
 								</div>
 								<a href="" title="" class="contbodyCardGallery">
 									<div class="cardGalleryHomeBody">
 										<div class="cardGalleryTxt">
-											<h2>Piezas Publicitarias</h2>
+											<h2>LOGO</h2>
 											<p>
-												Diseño y Elaboración de piezas publicitarias en todo tipo de empresa y/o proyecto.
+												Diseño y Elaboración de logotipos.
 											</p>
 										</div>
 									</div>

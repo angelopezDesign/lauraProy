@@ -27,8 +27,8 @@
 				</div>
 				<div class="small-12 medium-6 columns">
 					<div class="contactFooter">
-						<p><span>Mobiel:</span> <a href="tel:" title="">3013577497</a></p>
-						<p><span>Email:</span> <a href="tel:" title="">info@lauradesign.com</a></p>
+						<p><span>Mobiel:</span> <a href="tel:" title="">3138010182</a></p>
+						<p><span>Email:</span> <a href="tel:" title="">lauraguerradesign@gmail.com</a></p>
 					</div>
 					<div class="redesFooter">
 						<p><a href="" title=""><i class="fa fa-facebook"></i> </a>  <a href="" title=""><i class="fa fa-twitter"></i></a> <a href="" title=""><i class="fa fa-instagram"></i></a></p>
@@ -54,18 +54,6 @@
 </body>
 	<script src="js/app.js"></script>
 	<script src="js/swiper.min.js" type="text/javascript" charset="utf-8"></script>
-	<script src="js/masonry.pkgd.min.js"></script>
-	<script>
-		$('.galeryFotoP').masonry({
-		itemSelector: '.cardGaleryFp',
-		columnWidth: 0
-		});
-
-		$('.galeryContainer').masonry({
-		itemSelector: '.galleryHome',
-		columnWidth: 0
-		});
-	</script>
 	<script>
 		$(document).ready(function(){
 
