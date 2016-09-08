@@ -115,4 +115,16 @@
     });
 
     </script>
+    <script src="js/masonry.pkgd.min.js"></script>
+	<script>
+		$('.galeryFotoP').masonry({
+		itemSelector: '.cardGaleryFp',
+		columnWidth: 0
+		});
+
+		$('.galeryContainer').masonry({
+		itemSelector: '.galleryHome',
+		columnWidth: 0
+		});
+	</script>
 </html>

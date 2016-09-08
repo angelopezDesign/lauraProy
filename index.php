@@ -37,7 +37,7 @@
 						<article class="small-12 medium-3 columns galleryHome">
 							<div class="cardGalleryHome">
 								<div class="cardGalleryHomeHeader">
-									<img src="recursos/img/home/foto36.jpg" alt="cardImagen"/>
+									<img src="recursos/img/home/women.jpg" alt="cardImagen"/>
 								</div>
 								<a href="" title="" class="contbodyCardGallery">
 									<div class="cardGalleryHomeBody">

@@ -25,18 +25,7 @@
 			});
 		});
 	</script>
-	<script src="js/masonry.pkgd.min.js"></script>
-	<script>
-		$('.galeryFotoP').masonry({
-		itemSelector: '.cardGaleryFp',
-		columnWidth: 0
-		});
-
-		$('.galeryContainer').masonry({
-		itemSelector: '.galleryHome',
-		columnWidth: 0
-		});
-	</script>
+	
 	<style>
 		@font-face {
 			font-family: Dragon_is_coming;

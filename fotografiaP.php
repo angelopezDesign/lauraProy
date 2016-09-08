@@ -27,49 +27,49 @@
 						<div class="cardGaleryFp small-12 medium-2">
 							<div class="headerGaleryFp">
 								<div class="thumbGaleryFp">
-									<img src="recursos/img/fotografiaP/foto4.jpg" alt="foto4" class="imagGalery">
+									<img src="recursos/img/fotografiaP/fb_woman002_small.jpg" alt="fb_woman002_large" class="imagGalery">
 								</div>
 							</div>
 						</div>
 						<div class="cardGaleryFp small-12 medium-2">
 							<div class="headerGaleryFp">
 								<div class="thumbGaleryFp">
-									<img src="recursos/img/fotografiaP/1011078_10201505132896285_1564551361_n.jpg" alt="1011078_10201505132896285_1564551361_n" class="imagGalery">
+									<img src="recursos/img/fotografiaP/fp_bike_small.jpg" alt="fp_bike_large" class="imagGalery">
 								</div>
 							</div>
 						</div>
 						<div class="cardGaleryFp small-12 medium-2">
 							<div class="headerGaleryFp">
 								<div class="thumbGaleryFp">
-									<img src="recursos/img/fotografiaP/12506602_10205566329783669_1294584566_n.jpg" alt="12506602_10205566329783669_1294584566_n" class="imagGalery">
+									<img src="recursos/img/fotografiaP/fp_bike001_small.jpg" alt="fp_bike001_large" class="imagGalery">
 								</div>
 							</div>
 						</div>
 						<div class="cardGaleryFp small-12 medium-2">
 							<div class="headerGaleryFp">
 								<div class="thumbGaleryFp">
-									<img src="recursos/img/fotografiaP/foto10.jpg" alt="foto10" class="imagGalery">
+									<img src="recursos/img/fotografiaP/fp_bike002_small.jpg" alt="fp_bike002_large" class="imagGalery">
 								</div>
 							</div>
 						</div>
 						<div class="cardGaleryFp small-12 medium-2">
 							<div class="headerGaleryFp">
 								<div class="thumbGaleryFp">
-									<img src="recursos/img/fotografiaP/foto10.jpg" alt="foto10" class="imagGalery">
+									<img src="recursos/img/fotografiaP/fp_bike003_small.jpg" alt="fp_bike003_large" class="imagGalery">
 								</div>
 							</div>
 						</div>
 						<div class="cardGaleryFp small-12 medium-2">
 							<div class="headerGaleryFp">
 								<div class="thumbGaleryFp">
-									<img src="recursos/img/fotografiaP/foto10.jpg" alt="foto10" class="imagGalery">
+									<img src="recursos/img/fotografiaP/fp_cura_small.jpg" alt="fp_cura_large" class="imagGalery">
 								</div>
 							</div>
 						</div>
 						<div class="cardGaleryFp small-12 medium-2">
 							<div class="headerGaleryFp">
 								<div class="thumbGaleryFp">
-									<img src="recursos/img/fotografiaP/foto10.jpg" alt="foto10" class="imagGalery">
+									<img src="recursos/img/fotografiaP/fp_granFather_small.jpg" alt="fp_granFather_large" class="imagGalery">
 								</div>
 							</div>
 						</div>
