@@ -38,16 +38,28 @@
 		}
 	.galeryFotoP{
 		background-color:#333;
-		.headerGaleryFp{
-			width: 100%;
-			.thumbGaleryFp{
-				width:100%;
-				img.imagGalery{
-					width: 100%;
-					cursor:pointer;
+		&:after,
+		&:before{
+			content:"";
+			display: block;
+			clear: both;
+		}
+		.cardGaleryFp{
+			position: relative;
+			padding-left: 0px;
+			padding-right: 0px;
+			.headerGaleryFp{
+				width: 100%;
+				.thumbGaleryFp{
+					width:100%;
+					img.imagGalery{
+						width: 100%;
+						cursor:pointer;
+					}
 				}
 			}
 		}
 	}
+		
 }
 

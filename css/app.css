@@ -176,8 +176,8 @@ main .wrapper #galleryHome {
   padding-bottom: 50px;
   background: #323232; }
   main .wrapper #galleryHome .galleryHome {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
     position: relative; }
     main .wrapper #galleryHome .galleryHome .cardGalleryHome {
       position: relative;
@@ -712,13 +712,21 @@ footer {
     width: 100%; }
   #bodyFotografiaP .galeryFotoP {
     background-color: #333; }
-    #bodyFotografiaP .galeryFotoP .headerGaleryFp {
-      width: 100%; }
-      #bodyFotografiaP .galeryFotoP .headerGaleryFp .thumbGaleryFp {
+    #bodyFotografiaP .galeryFotoP:after, #bodyFotografiaP .galeryFotoP:before {
+      content: "";
+      display: block;
+      clear: both; }
+    #bodyFotografiaP .galeryFotoP .cardGaleryFp {
+      position: relative;
+      padding-left: 0px;
+      padding-right: 0px; }
+      #bodyFotografiaP .galeryFotoP .cardGaleryFp .headerGaleryFp {
         width: 100%; }
-        #bodyFotografiaP .galeryFotoP .headerGaleryFp .thumbGaleryFp img.imagGalery {
-          width: 100%;
-          cursor: pointer; }
+        #bodyFotografiaP .galeryFotoP .cardGaleryFp .headerGaleryFp .thumbGaleryFp {
+          width: 100%; }
+          #bodyFotografiaP .galeryFotoP .cardGaleryFp .headerGaleryFp .thumbGaleryFp img.imagGalery {
+            width: 100%;
+            cursor: pointer; }
 
 #bodyIdCorp:after,
 #bodyIdCorp:before {

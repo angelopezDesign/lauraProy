@@ -108,7 +108,7 @@
 					</div>
 					<div class="small-12 columns contItemsNav">
 						<ul>
-							<li><a href="/laura" title="Home">Home</a></li>
+							<li><a href="index.php" title="Home">Home</a></li>
 							<li><a href="corporativa.php" title="Identidad Corporativa">Identidad Corporativa</a></li>
 							<li><a href="materialP.php" title="Material Publicitario">Material Publicitario</a></li>
 							<li><a href="fotografiaP.php" title="Fotografia Publicitaria">Fotografia Publicitaria</a></li>
